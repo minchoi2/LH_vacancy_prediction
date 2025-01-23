@@ -12,24 +12,25 @@ Ex)
 ------------
 
 ## 파일 및 폴더 구조 (예시)
-+ㅁdata
--ㄴㅁlabel
--   ㄴ~~~ # 주요 핵심 데이터 (지식산업센터 공실률 관련 데이터 등)
--ㄴㅁfinance
--   ㄴㅁout_effect # 환율 등, 외부 경제지표 
--   ㄴㅁin_effect  # 물가상ㅅ으률 등, 내부 경제지표
--   ㄴㅁcard # 카드 매출 데이터 등
--   ㄴㅁpopulation # 인구 및 인구이동 데이터 등
--   ㄴㅁvacancy_rate_of_office # 기타 시설 공실률 데이터 등 
--ㄴㅁinfra
--  ㄴㅁhospital # 주변 병원 
--  ㄴㅁsubway # 주변 지하철
--  ㄴㅁbus # 주변 버스
--  ㄴㅁschool # 주변 학교 
--ㄴㅁbuilding
--  ㄴㅁcenters # 지.산.센 단지 정보
--  ㄴㅁstores # 내부 건물 세부 정보
--ㅁgraph 
--ㅁmodel
--requirements.txt # 필요 파이썬 및 패키지 버전
--config.py # 전역변수 혹은 옵션 등 모음 
++
+-ㅁdata <br>
+ㄴㅁlabel <br>
+   ㄴ~~~ # 주요 핵심 데이터 (지식산업센터 공실률 관련 데이터 등) <br>
+ㄴㅁfinance <br>
+   ㄴㅁout_effect # 환율 등, 외부 경제지표 <br>
+   ㄴㅁin_effect  # 물가상ㅅ으률 등, 내부 경제지표 <br>
+   ㄴㅁcard # 카드 매출 데이터 등 <br>
+   ㄴㅁpopulation # 인구 및 인구이동 데이터 등 <br>
+   ㄴㅁvacancy_rate_of_office # 기타 시설 공실률 데이터 등 <br> 
+ㄴㅁinfra <br>
+   ㄴㅁhospital # 주변 병원 <br> 
+   ㄴㅁsubway # 주변 지하철 <br>
+   ㄴㅁbus # 주변 버스 <br>
+   ㄴㅁschool # 주변 학교 <br>
+ㄴㅁbuilding <br>
+   ㄴㅁcenters # 지.산.센 단지 정보 <br>
+   ㄴㅁstores # 내부 건물 세부 정보 <br>
+ㅁgraph <br>
+ㅁmodel <br>
+requirements.txt # 필요 파이썬 및 패키지 버전 <br>
+config.py # 전역변수 혹은 옵션 등 모음 <br>  
